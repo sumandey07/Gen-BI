@@ -1,0 +1,41 @@
+Display testcases executed for test suite sn1?
+
+Show testcases executed for test suite sn1?
+
+Show executed testcases for test suite sn1?
+
+Show passed testcases for test suite sn1?
+
+Can you tell me passed testcase for test suite sn1?
+
+Show total testcases passed for test suite sn3?
+
+Display testcases executed for platform c-6kv?
+
+Show testcases executed for platform c-6kv?
+
+Show passed testcases for platform c-6kv?
+
+Display executed testcases for platform c-6kv?
+
+Get passed testcases for platform c-6kv?
+
+Display testcases passed for test suite sn1 and platform c-6kv?
+
+Show testcases passed for test suite sn1 and platform c-6kv?
+
+Display passed testcases for test suite sn1 and platform c-6kv?
+
+Show executed testcases for test suite sn1 and platform c-6kv?
+
+Display testcases executed for test suite sn3 and platform c-8kv with release version 7.6?
+
+Display testcases passed for platform c-6kv and release version 7.6?
+
+Display testcases executed for test suite sn1 and platform c-5kv with release version 7.2?
+
+Show executed testcases for test suite sn1 and platform c-5kv with release version 7.2?
+
+Display passed testcases for test suite sn1 and platform c-5kv with release version 7.2?
+
+How many total entries for the platform c-7kv? 

@@ -1,0 +1,16 @@
+Platform,Test_Suite,Testcases Passed,Testcases Executed,Testcases Failed,Release_Version
+c-8kv,sn3,45,75,30,7.6
+c-7kv,sn3,56,74,18,7.6
+c-6kv,sn3,65,74,9,7.6
+c-5kv,sn3,66,76,10,7.6
+c-4kv,sn3,45,78,33,7.6
+c-8kv,sn2,66,67,1,7.6
+c-7kv,sn2,67,69,2,7.5
+c-6kv,sn2,69,71,2,7.5
+c-5kv,sn2,67,70,3,7.1
+c-4kv,sn2,43,45,2,7.1
+c-8kv,sn1,56,65,9,7.2
+c-7kv,sn1,34,37,3,7.2
+c-6kv,sn1,67,71,4,7.2
+c-5kv,sn1,29,36,7,7.2
+c-4kv,sn1,32,32,0,7.2
