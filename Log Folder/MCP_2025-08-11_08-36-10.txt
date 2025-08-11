@@ -1,3 +1,0 @@
-2025-08-11 08:36:10 INFO - Importing DataBase Connection
-2025-08-11 08:36:11 INFO - DataBase Initialized
-2025-08-11 08:36:11 INFO - Creating FastAPI app instance
