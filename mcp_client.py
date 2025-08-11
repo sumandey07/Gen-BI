@@ -9,7 +9,7 @@ def call_mcp_sql_executor(sql_query: str) -> dict:
     """
     try:
         response = requests.post(
-            url=MCP_EXECUTE_TOOL_ENDPOINT,
+            url=https://gen-bi-ppn3.onrender.com/execute_select_sql_query,
             json={"sql_query": sql_query},
             timeout=REQUEST_TIMEOUT,
         )
@@ -38,7 +38,7 @@ def discover_mcp_tools() -> list:
     Retrieves available tools from the MCP server.
     """
     try:
-        response = requests.get(f"{MCP_SERVER_URL}/tools", timeout=REQUEST_TIMEOUT)
+        response = requests.get("https://gen-bi-ppn3.onrender.com/tools", timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
 
         try:
