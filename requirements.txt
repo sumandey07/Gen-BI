@@ -3,6 +3,7 @@ fastapi-cli==0.0.8
 httpcore==1.0.9
 httptools==0.6.4
 Jinja2==3.1.6
+pywin32
 jsonschema==4.23.0
 Markdown==3.7
 MarkupSafe==3.0.2
@@ -24,5 +25,6 @@ tokenizers==0.21.2
 torch==2.7.1
 transformers==4.53.0
 urllib3==2.3.0
+streamlit-echarts
 uvicorn==0.30.1
 kaleido
