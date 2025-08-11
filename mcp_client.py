@@ -9,7 +9,7 @@ def call_mcp_sql_executor(sql_query: str) -> dict:
     """
     try:
         response = requests.post(
-            url=https://gen-bi-ppn3.onrender.com/execute_select_sql_query,
+            url="https://gen-bi-ppn3.onrender.com/execute_select_sql_query",
             json={"sql_query": sql_query},
             timeout=REQUEST_TIMEOUT,
         )
